@@ -1,0 +1,26 @@
+{
+  "name": "amtoaleonarprelimexam",
+  "version": "1.0.0",
+  "description": "web shop app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMamto/AmtoAleonarPrelimExam.git"
+  },
+  "keywords": [
+    "web",
+    "shop"
+  ],
+  "author": "AmtoAleonar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMamto/AmtoAleonarPrelimExam/issues"
+  },
+  "homepage": "https://github.com/JMamto/AmtoAleonarPrelimExam#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
